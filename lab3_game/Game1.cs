@@ -44,6 +44,8 @@ namespace lab3_game
 
            
 
+
+
             base.Draw(gameTime);
         }
     }
